@@ -1,4 +1,4 @@
-in flappy bird game making learned how to use spirits png from one file as diffrent elements.
+in flappy bird game making learned how to use "spirits png" from one file as diffrent elements.
 use of this in js made me clear of this key word. created all element js file seprate for better organization and easy to understand
 
 spirit png: code to draw these elements onto the canvas.
