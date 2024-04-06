@@ -1,3 +1,9 @@
+in flappy bird game making learned how to use pngs from one file as diffrent elements.
+use of this in js made me clear of this key word. created all element js file seprate for better organization and easy to understand
+
+
+
+
 app.js (main):
 
 Initialization: The app.js file initializes the game by setting up the canvas, loading necessary assets (such as sprites and sounds), and defining the game state.
