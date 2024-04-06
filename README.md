@@ -1,7 +1,8 @@
-in flappy bird game making learned how to use pngs from one file as diffrent elements.
+in flappy bird game making learned how to use spirits png from one file as diffrent elements.
 use of this in js made me clear of this key word. created all element js file seprate for better organization and easy to understand
 
-
+spirit png: code to draw these elements onto the canvas.
+This line draws the bird sprite onto the canvas using the specified source position (bird.sX and bird.sY) and dimensions (this.w and this.h). Similarly, other game elements are drawn using different source positions and dimensions from the same sprite image.
 
 
 app.js (main):
